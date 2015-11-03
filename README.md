@@ -1,6 +1,8 @@
 # CI3-default_controller_route_with_sub_folder
 CodeIgniter 3 MY_Router.php to override default_controller in routes.php to allow subfolders.
 
-Thanks to Martin7483
+Thanks to <a href="http://forum.codeigniter.com/user-5989.html">Martin7483</a> For Advice
+
+Thought I would share it on here.
 
 http://forum.codeigniter.com/forum-17.html
