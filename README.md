@@ -7,4 +7,3 @@ Thought I would share the MY_Router.php on here.
 
 Question was asked here <a href="http://forum.codeigniter.com/thread-63443.html">Original Forum Question</a>
 
-http://forum.codeigniter.com/forum-17.html
