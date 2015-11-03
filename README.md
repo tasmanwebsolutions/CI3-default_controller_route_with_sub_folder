@@ -5,4 +5,6 @@ Thanks to <a href="http://forum.codeigniter.com/user-5989.html">Martin7483</a> F
 
 Thought I would share it on here.
 
+Question was asked here <a href="http://forum.codeigniter.com/thread-63443.html">Original Forum Question</a>
+
 http://forum.codeigniter.com/forum-17.html
