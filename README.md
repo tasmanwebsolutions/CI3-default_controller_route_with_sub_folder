@@ -3,7 +3,7 @@ CodeIgniter 3 MY_Router.php to override default_controller in routes.php to allo
 
 Thanks to <a href="http://forum.codeigniter.com/user-5989.html">Martin7483</a> For Advice
 
-Thought I would share it on here.
+Thought I would share the MY_Router.php on here.
 
 Question was asked here <a href="http://forum.codeigniter.com/thread-63443.html">Original Forum Question</a>
 
